@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azlina Arabi Hossain</h1>
+<h1 align="center">Hi 👋, I'm Azlina Arabi Hossain Aylin</h1>
 <h3 align="center">A learner from Bangladesh</h3>
 <img align="right" alt="coding" width="700"src="https://raw.githubusercontent.com/absmahi01/absmahi01/main/Programmer-I.gif">
 
