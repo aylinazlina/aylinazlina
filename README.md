@@ -1,3 +1,5 @@
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=2800&pause=2000&width=940&height=70&lines=Hey%2C+I'm+Azlina Arabi Hossain Aylin.+Welcome+to+my+Profile+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></h1>
+
 <h1 align="center">Hi 👋, I'm Azlina Arabi Hossain Aylin</h1>
 <h3 align="center">A learner from Bangladesh</h3>
 <img align="right" alt="coding" width="700"src="https://raw.githubusercontent.com/absmahi01/absmahi01/main/Programmer-I.gif">
